@@ -1,0 +1,4 @@
+#Sat Dec 01 21:55:15 IST 2018
+base.0=E\:\\Projects\\tess_ocr_fully_functional_working\\tess_ocr_fully_functional_working\\tess_ocr_demo_src\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+path.0=classes.dex
+renamed.0=classes.dex

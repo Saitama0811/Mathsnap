@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\libraries\tess-two\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\libraries\tess-two\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\libraries\tess-two\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\libraries\tess-two\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\libraries\tess-two\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\libraries\tess-two\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\libraries\tess-two\AndroidManifest.xml:17:1-24:12
+	package
+		ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\libraries\tess-two\AndroidManifest.xml:18:5-47
+		INJECTED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\libraries\tess-two\AndroidManifest.xml
+		INJECTED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\libraries\tess-two\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\libraries\tess-two\AndroidManifest.xml:20:5-30
+		INJECTED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\libraries\tess-two\AndroidManifest.xml
+		INJECTED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\libraries\tess-two\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\libraries\tess-two\AndroidManifest.xml:17:11-69
+	android:versionCode
+		ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\libraries\tess-two\AndroidManifest.xml:19:5-28
+		INJECTED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\libraries\tess-two\AndroidManifest.xml
+		INJECTED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\libraries\tess-two\AndroidManifest.xml
+uses-sdk
+INJECTED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\libraries\tess-two\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\libraries\tess-two\AndroidManifest.xml
+INJECTED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\libraries\tess-two\AndroidManifest.xml
+INJECTED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\libraries\tess-two\AndroidManifest.xml
+INJECTED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\libraries\tess-two\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\libraries\tess-two\AndroidManifest.xml
+		ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\libraries\tess-two\AndroidManifest.xml
+		INJECTED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\libraries\tess-two\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\libraries\tess-two\AndroidManifest.xml
+		ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\libraries\tess-two\AndroidManifest.xml
+		INJECTED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\libraries\tess-two\AndroidManifest.xml

@@ -1,0 +1,106 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml:2:1-38:12
+MERGED from [:libraries:tess-two] E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\libraries\tess-two\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:17:1-26:12
+INJECTED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml
+		ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml
+		ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml:2:11-69
+supports-screens
+ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml:5:5-9:39
+	android:largeScreens
+		ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml:7:9-36
+	android:smallScreens
+		ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml:9:9-36
+	android:normalScreens
+		ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml:8:9-37
+	android:xlargeScreens
+		ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml:6:9-37
+uses-permission#android.permission.CAMERA
+ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml:11:5-64
+	android:name
+		ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml:11:22-62
+uses-feature#android.hardware.camera.autofocus
+ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml:12:5-70
+	android:name
+		ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml:12:19-67
+uses-feature#android.hardware.camera.flash
+ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml:13:5-15:36
+	android:required
+		ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml:15:9-33
+	android:name
+		ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml:14:9-53
+uses-feature#android.hardware.camera
+ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml:16:5-60
+	android:name
+		ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml:16:19-57
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml:17:22-78
+application
+ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml:19:5-36:19
+	android:label
+		ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml:22:9-41
+	android:icon
+		ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml:21:9-42
+	android:allowBackup
+		ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml:23:9-40
+activity#engenoid.tessocrtest.MainActivity
+ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml:24:9-35:20
+	android:screenOrientation
+		ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml:26:13-49
+	android:label
+		ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml:30:13-45
+	android:windowSoftInputMode
+		ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml:29:13-60
+	android:configChanges
+		ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml:27:13-74
+	android:theme
+		ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml:28:13-71
+	android:name
+		ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml:25:13-61
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml:31:13-34:29
+action#android.intent.action.MAIN
+ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml:33:27-74
+uses-sdk
+INJECTED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml
+INJECTED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml
+MERGED from [:libraries:tess-two] E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\libraries\tess-two\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:22:5-24:41
+MERGED from [:libraries:tess-two] E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\libraries\tess-two\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:22:5-24:41
+INJECTED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml
+INJECTED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml
+		ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml
+		ADDED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Projects\tess_ocr_fully_functional_working\tess_ocr_fully_functional_working\tess_ocr_demo_src\app\src\main\AndroidManifest.xml

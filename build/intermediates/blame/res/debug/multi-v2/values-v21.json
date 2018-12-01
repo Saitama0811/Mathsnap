@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Projects\\tess_ocr_fully_functional_working\\tess_ocr_fully_functional_working\\tess_ocr_demo_src\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "map": [
+                {
+                    "source": "E:\\Projects\\tess_ocr_fully_functional_working\\tess_ocr_fully_functional_working\\tess_ocr_demo_src\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "3",
+                        "endColumns": "12",
+                        "endOffsets": "132"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "12",
+                        "endOffsets": "129"
+                    }
+                }
+            ]
+        }
+    ]
+}

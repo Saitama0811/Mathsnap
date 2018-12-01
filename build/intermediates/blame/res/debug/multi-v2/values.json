@@ -1,0 +1,79 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Projects\\tess_ocr_fully_functional_working\\tess_ocr_fully_functional_working\\tess_ocr_demo_src\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "E:\\Projects\\tess_ocr_fully_functional_working\\tess_ocr_fully_functional_working\\tess_ocr_demo_src\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "90,149",
+                        "endColumns": "57,55",
+                        "endOffsets": "143,200"
+                    },
+                    "to": {
+                        "startLines": "13,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "622,680",
+                        "endColumns": "57,55",
+                        "endOffsets": "675,731"
+                    }
+                },
+                {
+                    "source": "E:\\Projects\\tess_ocr_fully_functional_working\\tess_ocr_fully_functional_working\\tess_ocr_demo_src\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    },
+                    "to": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "902",
+                        "endLines": "20",
+                        "endColumns": "12",
+                        "endOffsets": "1030"
+                    }
+                },
+                {
+                    "source": "E:\\Projects\\tess_ocr_fully_functional_working\\tess_ocr_fully_functional_working\\tess_ocr_demo_src\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,3,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "106,59,160",
+                        "endColumns": "52,45,66",
+                        "endOffsets": "154,100,222"
+                    },
+                    "to": {
+                        "startLines": "15,16,17",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "736,789,835",
+                        "endColumns": "52,45,66",
+                        "endOffsets": "784,830,897"
+                    }
+                },
+                {
+                    "source": "E:\\Projects\\tess_ocr_fully_functional_working\\tess_ocr_fully_functional_working\\tess_ocr_demo_src\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "18,20,22,2,4,6,8,10,12,14,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "884,988,1076,57,159,258,393,478,570,679,795",
+                        "endColumns": "52,51,50,52,45,53,47,47,47,62,50",
+                        "endOffsets": "932,1035,1122,105,200,307,436,521,613,737,841"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,108,160,211,264,310,364,412,460,508,571",
+                        "endColumns": "52,51,50,52,45,53,47,47,47,62,50",
+                        "endOffsets": "103,155,206,259,305,359,407,455,503,566,617"
+                    }
+                }
+            ]
+        }
+    ]
+}

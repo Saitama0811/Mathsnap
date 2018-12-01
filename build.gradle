@@ -1,0 +1,48 @@
+apply plugin: 'com.android.application'
+
+buildscript {
+
+    repositories {
+        google()
+        mavenCentral()
+
+        maven {
+            url 'https://maven.google.com/'
+            name 'Google'
+        }
+        jcenter()
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.2.1'
+        //classpath 'com.android.tools.build:aapt2:3.2.0.jar'
+    }
+}
+android {
+    compileSdkVersion 28
+    buildToolsVersion "28.0.3"
+
+    defaultConfig {
+        applicationId "engenoid.tessocrtest"
+        minSdkVersion 19
+        targetSdkVersion 28
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    //implementation 'com.android.tools.build:aapt2:3.2.0'
+    implementation project(':libraries:tess-two')
+    implementation files('libraries/Javax_Script.jar')
+}
+repositories{
+    google()
+}
